@@ -54,7 +54,7 @@ The project includes insightful charts that help in understanding:
 
 ## Author
 👤 **[Your Name]**  
-📧 Contact: your-rohitnawariya649@gmailcom  
+📧 Contact: rohitnawariya649@gmailcom  
 🔗 LinkedIn: [linkedin.com/in/rohit-kumar-138143231](https://linkedin.com/in/rohit-kumar-138143231)  
 📂 GitHub: [github.com/RohitKumar649](https://github.com/RohitKumar649)  
 
