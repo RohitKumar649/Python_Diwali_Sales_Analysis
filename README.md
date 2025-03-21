@@ -11,6 +11,7 @@ This project analyzes Diwali sales data to identify key customer demographics, p
   - 🟢 Females: 65%
   - 🔵 Males: 35%
   - *Insight:* Women dominate the purchase volume and have higher purchasing power.
+  - Dashboard interaction <a href="file:///C:/Users/ADMIN/Desktop/All%20project/Diwali%20Sales%20python/Gender.png">View Dashborad</a>
 
 - **Age Group Distribution:**
   - 18-25 years: 20%
