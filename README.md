@@ -50,20 +50,11 @@ The project includes insightful charts that help in understanding:
 - **Inventory Planning:** Prioritize stock for Food, Clothing, and Electronics during Diwali sales.
 - **Regional Campaigns:** Personalized promotions for high-spending states to maximize revenue.
 
-## How to Use This Project
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/diwali-sales-analysis.git
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Run the Jupyter Notebook to explore the analysis.
+
 
 ## Author
 👤 **[Your Name]**  
-📧 Contact: your-email@example.com  
+📧 Contact: your-rohitnawariya649@gmailcom  
 🔗 LinkedIn: [linkedin.com/in/rohit-kumar-138143231](https://linkedin.com/in/rohit-kumar-138143231)  
 📂 GitHub: [github.com/RohitKumar649](https://github.com/RohitKumar649)  
 
