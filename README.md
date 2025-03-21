@@ -1,5 +1,8 @@
 # Diwali Sales Analysis 📊
 
+## Dataset used 
+- <a href="">Dataset</a>
+
 ## Overview
 This project analyzes Diwali sales data to identify key customer demographics, purchasing behavior, and top-selling product categories. The insights from this analysis can help businesses optimize marketing strategies and inventory management during festive sales.
 
