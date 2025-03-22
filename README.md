@@ -43,6 +43,9 @@ This project analyzes Diwali sales data to identify key customer demographics, p
   - Grafe interection <a href="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amoun%20of%20Marital_Status.png">View</a> Amount of Marital Statues
   - From above graphs we can see that most of the buyers are married (women) and they have high purchasing power
   - **Top Professions:** IT (40%), Healthcare (30%), Aviation (20%)
+  - Grafe interection <a href="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Count%20of%20Occupation.png">View</a> Count of Occupation
+  - Grafe interection <a href ="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amount%20of%20Occupation.png">View</a> Amount of Occupation
+  - **NOT,** From above graphs can see most of the buyers are working in IT. Aviabion Healthcare sector
   - *Insight:* High-income professionals are the key audience for festive shopping.
 
 - **Top Product Categories:**
