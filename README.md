@@ -79,12 +79,10 @@ The project includes insightful charts that help in understanding:
 
 ## Author
 👤 **[Rohit Kumar]** 
-📧 Email: <a href="mailto:rohitnawariya649@gmail.com">rohitnawariya649@gmail.com</a>
+📧 Email: [rohitnawariya649@gmail.com](mailto:rohitnawariya649@gmail.com) 
 🔗 LinkedIn: [linkedin.com/in/rohit-kumar-138143231](https://linkedin.com/in/rohit-kumar-138143231)  
 📂 GitHub: [github.com/RohitKumar649](https://github.com/RohitKumar649)  
 
-
-https://mail.google.com/mail/u/0/#inbox
 ## License
 📜 This project is licensed under the MIT License.
 
