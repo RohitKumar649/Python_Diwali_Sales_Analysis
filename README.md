@@ -53,6 +53,9 @@ This project analyzes Diwali sales data to identify key customer demographics, p
   - 👕 Clothing: 35%
   - 📱 Electronics: 25%
   - *Insight:* These three categories make up 100% of sales, highlighting priority areas for inventory and promotions.
+  - Grafe interection <a href="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Count%20of%20Product.png">View</a> Count of Product
+  - Grafe interrection <a href="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amount%20of%20Product.png">View</a> Amount of Product
+  - **NOT,** From above graphas we can see that most of the sold products are from Food, Cloting and Electronics category
 
 ## Technologies Used
 - 🐍 Python
@@ -76,7 +79,7 @@ The project includes insightful charts that help in understanding:
 
 ## Author
 👤 **[Rohit Kumar]**  
-📧 Contact: rohitnawariya649@gmail.com  
+📧 Contact: <a href="mailto:rohitnawariya649@gmail.com" target="_blank"> 
 🔗 LinkedIn: [linkedin.com/in/rohit-kumar-138143231](https://linkedin.com/in/rohit-kumar-138143231)  
 📂 GitHub: [github.com/RohitKumar649](https://github.com/RohitKumar649)  
 
