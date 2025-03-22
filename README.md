@@ -3,6 +3,9 @@
 ## Dataset used 
 - <a href="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Diwali%20Sales%20Data.csv">Dataset</a>
 
+## Project Overview
+- <a href="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Diwali%20Sales%20Data.csv"Diwali Sales Analysis</a>
+
 ## Overview
 This project analyzes Diwali sales data to identify key customer demographics, purchasing behavior, and top-selling product categories. The insights from this analysis can help businesses optimize marketing strategies and inventory management during festive sales.
 
