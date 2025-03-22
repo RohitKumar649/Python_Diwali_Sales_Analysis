@@ -19,7 +19,7 @@ This project analyzes Diwali sales data to identify key customer demographics, p
   - 36-45 years: 25%
   - 46+ years: 10%
   - *Insight:* The majority of purchases come from individuals aged 26-35 years.
-  - Grafe interection <a href="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Count%20of%20Age%20Group.png">Count By Age Group</a>
+  - Grafe interection <a href="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Count%20of%20Age%20Group.png">View</a>Count By Age Group
 
 - **Top States by Orders & Revenue:**
   - **Orders:** Uttar Pradesh (30%), Maharashtra (25%), Karnataka (20%)
