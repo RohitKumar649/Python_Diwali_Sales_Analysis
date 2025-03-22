@@ -35,7 +35,6 @@ This project analyzes Diwali sales data to identify key customer demographics, p
   - **Revenue:** Uttar Pradesh (35%), Karnataka (30%), Maharashtra (20%)
   - Grafe interection <a href="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amount%20of%20States.png">view</a> States By Amount
   - *Insight:* While Maharashtra has a high number of orders, Karnataka customers spend more per order.
-
   - **NOT,** From above graphs we can se that unexpectedly most of the orders are from utter pradesh, Maharashtra and karnatake respectively but total sales/amount is from UP, Karnatakea and then Maharashta
 
 - **Customer Segmentation:**
