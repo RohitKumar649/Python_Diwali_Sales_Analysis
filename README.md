@@ -16,7 +16,7 @@ This project analyzes Diwali sales data to identify key customer demographics, p
   - *Insight:* Women dominate the purchase volume and have higher purchasing power.
   - Grafe interection <a href="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Counts%20of%20Gender.png">View</a> Count By Gender
   - Grafe interection <a href="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amount%20of%20Gender.png">view</a> Amount By Gender
-  - **NOT =>** From above graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men 
+  - **NOT,** From above graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men 
 
 
 - **Age Group Distribution:**
@@ -27,7 +27,7 @@ This project analyzes Diwali sales data to identify key customer demographics, p
   - *Insight:* The majority of purchases come from individuals aged 26-35 years.
   - Grafe interection <a href="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Count%20of%20Age%20Group.png">View</a> Count By Age Group
   - Grage interection <a href="https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amount%20of%20Age%20Group.png">View</a> Amount by Age Group
-  - **NOT =>** From above graphs we can see that most of the buyers are of age group between 26-35 yrs female
+  - **NOT,** From above graphs we can see that most of the buyers are of age group between 26-35 yrs female
 
 - **Top States by Orders & Revenue:**
   - **Orders:** Uttar Pradesh (30%), Maharashtra (25%), Karnataka (20%)
