@@ -65,13 +65,17 @@ This project analyzes Diwali sales data to identify key customer demographics, p
 ![image Alt]()
 ## Visualizations
 The project includes insightful charts that help in understanding:
-    - Customer demographics
+## - Customer demographics
 ![image Alt](https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amount%20of%20Gender.png)
 ![image Alt](https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amount%20of%20Age%20Group.png)
 ![image Alt](https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amount%20of%20Occupation.png)
 ![image Alt](https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amoun%20of%20Marital_Status.png)
-- Regional sales trends
-- Product category preferences
+
+## - Regional sales trends
+![image Alt](https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amount%20of%20States.png)
+
+## - Product category preferences
+![image Alt](https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amount%20of%20Product.png)
 
 ## Conclusion & Recommendations
 - **Target Audience:** Married women aged 26-35 from Uttar Pradesh, Maharashtra, and Karnataka.
