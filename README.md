@@ -66,7 +66,7 @@ This project analyzes Diwali sales data to identify key customer demographics, p
 ## Visualizations
 The project includes insightful charts that help in understanding:
 - Customer demographics
-https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/README.md
+
 - Regional sales trends
 - Product category preferences
 
