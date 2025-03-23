@@ -83,8 +83,6 @@ The project includes insightful charts that help in understanding:
 - **Inventory Planning:** Prioritize stock for Food, Clothing, and Electronics during Diwali sales.
 - **Regional Campaigns:** Personalized promotions for high-spending states to maximize revenue.
 
-[Amoun of Marital_Status.png]https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amoun%20of%20Marital_Status.png
-
 ## Author
 👤 **[Rohit Kumar]** 
 📧 Email: [rohitnawariya649@gmail.com](mailto:rohitnawariya649@gmail.com) 
